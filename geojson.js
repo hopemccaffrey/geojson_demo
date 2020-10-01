@@ -516,7 +516,7 @@ var json = {
         "marker-color": "#b149c5",
         "marker-size": "medium",
         "marker-symbol": "",
-        "title": "Do Not Enger",
+        "title": "Do Not Enter",
         "image": "https://hmccaffrey477.files.wordpress.com/2020/09/hope.07.jpg?w=912"
       },
       "geometry": {
