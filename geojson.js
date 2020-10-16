@@ -16,8 +16,8 @@ var json = {
         "marker-color": "#ec1313",
         "marker-size": "medium",
         "marker-symbol": "",
-        "Title": "The Ghost of Barnes and Nobel",
-        "Image": "https://hmccaffrey477.files.wordpress.com/2020/10/hope.11.jpg?w=645&h&zoom=2"
+        "title": "The Ghost of Barnes and Nobel",
+        "image": "https://hmccaffrey477.files.wordpress.com/2020/10/hope.11.jpg?w=645&h&zoom=2"
       },
       "geometry": {
         "type": "Point",
